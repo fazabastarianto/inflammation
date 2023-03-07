@@ -1,2 +1,6 @@
+Some extra details:
+- One
+- Two
+
 Project leader : Luke Skywalker
 
